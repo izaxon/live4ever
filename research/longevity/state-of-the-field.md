@@ -151,7 +151,55 @@ Most promising near-term interventions for elderly:
 
 ---
 
-## Deep Dive: Comparative Analysis
+## Availability, Pricing & Impact Summary
+
+### NAD+ Boosters (NMN/NR)
+
+| Aspect | Details |
+|--------|---------|
+| **Available Now** | ✅ Yes — over-the-counter supplements |
+| **Price** | $20-60/month (NMN); $25-80/month (NR) |
+| **Delivery** | Oral capsules, sublingual |
+| **Impact** | 18% VO2 max improvement (Harvard 2026), better metabolism |
+| **Prescription?** | No (supplement), but pharmaceutical versions in trials |
+
+---
+
+### Senolytics (Dasatinib + Quercetin, Fisetin)
+
+| Aspect | Details |
+|--------|---------|
+| **Available Now** | ✅ Yes — supplements available |
+| **Price** | $20-40/month (formulations) |
+| **Delivery** | Oral |
+| **Impact** | Clears senescent cells, reduces inflammation |
+| **Prescription?** | No (supplement), clinical trials ongoing |
+
+---
+
+### Epigenetic Reprogramming (Yamanaka Factors)
+
+| Aspect | Details |
+|--------|---------|
+| **Available Now** | ❌ No — in Phase 1 trials since Feb 2026 |
+| **Price** | Unknown (gene therapy, likely expensive initially) |
+| **Delivery** | AAV gene therapy (eye currently) |
+| **Impact** | Potential to reverse cellular age fundamentally |
+| **Prescription?** | Not until ~2031-2035 if trials succeed |
+
+---
+
+## Comparison Table
+
+| Approach | Available Now | Price/Month | Impact Level | Timeline to Prescription |
+|----------|---------------|-------------|--------------|--------------------------|
+| NAD+ Boosters | ✅ Yes | $20-80 | Moderate-High | Now (supplement), 2028 (Rx) |
+| Senolytics | ✅ Yes | $20-40 | Moderate | 2029-2031 |
+| Reprogramming | ❌ No | TBD ($10k+?) | Very High | 2031-2035 |
+
+---
+
+**Bottom line:** NAD+ boosters and senolytics are available NOW at accessible prices. Reprogramming is the future but not yet available.
 
 See `comparative-analysis.md` for detailed comparison of senolytics vs NAD+ boosters vs epigenetic reprogramming for elderly.
 

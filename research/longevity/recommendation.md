@@ -45,26 +45,25 @@
 ## Actionable Recommendations for Elderly (60-80)
 
 ### Now (2026):
-- **Take NAD+ precursors (NMN or NR)** — Strong evidence, available, safe
-- **Consider senolytic protocol** — Emerging evidence, consult doctor
+- **Take NAD+ precursors (NMN or NR)** — $20-80/month, strong evidence, available now
+- **Consider senolytic protocol** — $20-40/month, emerging evidence, available now
 
 ### 2028+:
-- **Combination therapy** — NAD+ boosters + senolytics (complementary)
-- **Watch for FDA approvals** — Monitor NAD+ booster trials
+- **Combination therapy** — NAD+ boosters + senolytics (complementary mechanisms)
+- **Watch for FDA approvals** — Monitor NAD+ booster and senolytic trials
 
 ### 2032+:
-- **Reprogramming** — If trials succeed, could be breakthrough
+- **Reprogramming** — If trials succeed, could be breakthrough (but expensive, likely $10k+)
 
 ---
 
-## Summary
+## Quick Reference: Availability & Pricing
 
-| Question | Answer |
-|----------|--------|
-| Best near-term for elderly? | NAD+ boosters (NMN/NR) |
-| Timeline to first approved? | ~2028-2030 |
-| Which will actually work? | NAD+ boosters + senolytics (combination) |
-| Skip | Telomere, gene therapy deep dive, parabiosis |
+| Approach | Available Now | Monthly Cost | Prescription |
+|----------|---------------|--------------|--------------|
+| NAD+ Boosters (NMN/NR) | ✅ Yes | $20-80 | No (supplement) |
+| Senolytics (DQ/Fisetin) | ✅ Yes | $20-40 | No (supplement) |
+| Epigenetic Reprogramming | ❌ No | TBD ($10k+?) | Not until 2031+ |
 
 ---
 

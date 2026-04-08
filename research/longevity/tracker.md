@@ -5,15 +5,16 @@
 
 ---
 
-## 📊 Research Categories
+## 📊 Research Categories (Updated)
 
-| Category | Status | Next Milestone | Priority |
-|----------|--------|----------------|----------|
-| Epigenetic Reprogramming | 🚀 Human trials started Feb 2026 | Phase 1 results 2027 | ⭐ HIGH |
-| Senolytics | 🔬 Active Phase 1/2 trials | Efficacy data 2027-2028 | ⭐ HIGH |
-| NAD+ Boosters | ✅ Phase 2/3, showing results | FDA approval ~2028-2030 | ⭐ HIGH |
-| Telomere Extension | 🔬 Early stage | Safety data | ❌ LOW (skip) |
-| Stem Cell Therapy | 🔬 Ongoing | FDA approvals | ⚠️ MEDIUM (document only) |
+| Category | Status | Availability | Price | Impact | Priority |
+|----------|--------|--------------|-------|--------|----------|
+| NAD+ Boosters | ✅ Phase 2/3 | ✅ Now | $20-80/mo | Moderate-High | ⭐ HIGH |
+| Senolytics | 🔬 Phase 1/2 | ✅ Now | $20-40/mo | Moderate | ⭐ HIGH |
+| Epigenetic Reprogramming | 🚀 Phase 1 | ❌ 2031+ | TBD ($10k+?) | Very High | ⭐ HIGH |
+| Telomere Extension | ❌ Skipped | — | — | — | ❌ LOW |
+| Gene Therapy Deep Dive | ❌ Skipped | — | — | — | ❌ LOW |
+| Parabiosis | ❌ Skipped | — | — | — | ❌ LOW |
 
 ---
 
@@ -32,6 +33,18 @@
 ### 2025
 - Multiple senolytic trials completed
 - Lancet published senolytic pilot for Alzheimer's risk
+
+---
+
+## 📅 Scheduled Updates
+
+| Date | Status |
+|------|--------|
+| 2026-05-08 | 🔜 Pending |
+| 2026-06-08 | 🔜 Pending |
+| 2026-07-08 | 🔜 Pending |
+
+*See `refresh-schedule.md` for update checklist*
 
 ---
 
