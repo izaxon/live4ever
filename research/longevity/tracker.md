@@ -12,9 +12,9 @@
 | NAD+ Boosters | ✅ Phase 2/3 | ✅ Now | $20-80/mo | Moderate-High | ⭐ HIGH |
 | Senolytics | 🔬 Phase 1/2 | ✅ Now | $20-40/mo | Moderate | ⭐ HIGH |
 | Epigenetic Reprogramming | 🚀 Phase 1 | ❌ 2031+ | TBD ($10k+?) | Very High | ⭐ HIGH |
-| Telomere Extension | 🔬 Early stage | ⚠️ Limited | TBD | Moderate | ⚠️ MEDIUM |
-| Plasma/Young Blood | 🔬 Research | ❌ No | N/A | Unknown | ⚠️ MEDIUM |
-| Gene Therapy | 🔬 Various | ⚠️ Limited | TBD | Varies | ⚠️ MEDIUM |
+| Telomere Extension | 📋 Deep dive done | ⚠️ Limited | TBD | Moderate | ⚠️ MEDIUM |
+| Plasma/Young Blood | 📋 Deep dive done | ❌ No | N/A | Unknown | ⚠️ MEDIUM |
+| Gene Therapy | 📋 Deep dive done | ⚠️ Limited | TBD | Varies | ⚠️ MEDIUM |
 
 ---
 
@@ -63,7 +63,14 @@
 |-------|---------|------|--------|
 | First Human Cellular Reprogramming Trial | Life Biosciences | 2026 | 🔜 Pending |
 | NMN VO2 Max Study | Harvard | 2026 | ✅ Read |
-| Senolytic Phase 1 Alzheimer | Mayo | 2025 | ✅ Read |
+| Telomere Elongation Trial | Elixirgen | 2025 | ✅ Read |
+| Plasma Strategies Review | GeroScience | 2026 | ✅ Read |
+
+## 📁 Deep Dives
+
+- `deep-dive-telomere.md` — Full telomere extension analysis
+- `deep-dive-young-blood.md` — Young blood/plasma factors analysis
+- `deep-dive-gene-therapy.md` — Gene therapy approaches analysis
 
 ---
 
