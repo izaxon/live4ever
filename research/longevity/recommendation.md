@@ -35,10 +35,12 @@
 2. **Senolytics** — Human safety data, targeting fundamental aging mechanism (senescence)
 3. **Epigenetic Reprogramming** — Most promising long-term but unproven in humans
 
-**Methods to skip (low-impact):**
-- Telomere extension — early stage, cancer risk
-- Gene therapy deep dive — too many failures
-- Parabiosis — no single factor identified
+**Methods with growing evidence (lower priority for now):**
+- Telomere extension — Feb 2025 first human trial showed elongation, but cancer risk concerns
+- Plasma/Young blood — Feb 2026 review paper on clinical translation, specific factors being identified
+- Gene therapy — Some progress (Elixirgen), but many approaches still failing
+
+**Note:** These are lower priority NOT because unimportant, but because less mature, more risks, and less direct path to elderly rejuvenation in near term.
 
 ---
 

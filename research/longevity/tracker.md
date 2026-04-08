@@ -12,9 +12,9 @@
 | NAD+ Boosters | ✅ Phase 2/3 | ✅ Now | $20-80/mo | Moderate-High | ⭐ HIGH |
 | Senolytics | 🔬 Phase 1/2 | ✅ Now | $20-40/mo | Moderate | ⭐ HIGH |
 | Epigenetic Reprogramming | 🚀 Phase 1 | ❌ 2031+ | TBD ($10k+?) | Very High | ⭐ HIGH |
-| Telomere Extension | ❌ Skipped | — | — | — | ❌ LOW |
-| Gene Therapy Deep Dive | ❌ Skipped | — | — | — | ❌ LOW |
-| Parabiosis | ❌ Skipped | — | — | — | ❌ LOW |
+| Telomere Extension | 🔬 Early stage | ⚠️ Limited | TBD | Moderate | ⚠️ MEDIUM |
+| Plasma/Young Blood | 🔬 Research | ❌ No | N/A | Unknown | ⚠️ MEDIUM |
+| Gene Therapy | 🔬 Various | ⚠️ Limited | TBD | Varies | ⚠️ MEDIUM |
 
 ---
 

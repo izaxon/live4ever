@@ -24,14 +24,14 @@
 - [x] **RECM-02**: Identify any combination approaches that may work
 - [x] **RECM-03**: Document low-impact methods to skip (telomere, gene therapy deep dive, parabiosis)
 
-## Out of Scope
+## Additional Research (Lower Priority but Documented)
 
-| Topic | Reason |
-|-------|--------|
-| Telomere extension | Early stage, low impact per user request |
-| Gene therapy deep dive | Document only, don't go deep |
-| Young blood / parabiosis | Controversial, low impact |
-| Stem cell therapy details | Document only |
+| Topic | Status | Notes |
+|-------|--------|-------|
+| Telomere extension | 📋 Documented | Feb 2025 first human trial showed elongation |
+| Gene therapy | 📋 Documented | Some progress (Elixirgen), many failing |
+| Young blood / parabiosis | 📋 Documented | Feb 2026 review paper on clinical translation |
+| Stem cell therapy | 📋 Documented | Documented in state-of-field |
 
 ## Traceability
 

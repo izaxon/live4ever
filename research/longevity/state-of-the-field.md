@@ -95,6 +95,32 @@ A historic inflection point: **epigenetic reprogramming has entered human clinic
 
 ---
 
+### 8. Telomere Extension
+
+**What:** Lengthen telomeres (protective caps on chromosomes) which shorten with each cell division.
+
+**Recent Developments:**
+- **Feb 2025:** Elixirgen Therapeutics published first gene therapy trial showing telomere elongation in humans
+- Targeting telomere biology disorders first (e.g., dyskeratosis congenita)
+- Risks: Potential cancer risk (uncontrolled cell division)
+
+**Status:** Early stage but showing promise for specific conditions
+
+---
+
+### 9. Young Blood Factors / Parabiosis
+
+**What:** Studies showed young blood can rejuvenate old tissues. Focus on identifying specific factors (e.g., GDF11, CCL3).
+
+**Recent Developments:**
+- **Feb 2026:** New review paper on plasma-based strategies for clinical translation (GeroScience)
+- Evidence for endothelial IGF-1/IGF-1R signaling in young blood rejuvenation
+- Still identifying specific active factors
+
+**Status:** Research ongoing; controversial but active — specific factors being isolated
+
+---
+
 ## Key Companies to Watch (2026)
 
 | Company | Focus | Status |
