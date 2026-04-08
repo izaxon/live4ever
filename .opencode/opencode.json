@@ -1,0 +1,106 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "permission": {
+    "read": {
+      "/home/johan/src/live4ever/.opencode/get-physics-done/*": "allow"
+    },
+    "external_directory": {
+      "/home/johan/src/live4ever/.opencode/get-physics-done/*": "allow"
+    }
+  },
+  "mcp": {
+    "gpd-conventions": {
+      "type": "local",
+      "command": [
+        "/home/johan/.gpd/venv/bin/python",
+        "-m",
+        "gpd.mcp.servers.conventions_server"
+      ],
+      "environment": {
+        "LOG_LEVEL": "WARNING"
+      },
+      "enabled": true
+    },
+    "gpd-errors": {
+      "type": "local",
+      "command": [
+        "/home/johan/.gpd/venv/bin/python",
+        "-m",
+        "gpd.mcp.servers.errors_mcp"
+      ],
+      "environment": {
+        "LOG_LEVEL": "WARNING"
+      },
+      "enabled": true
+    },
+    "gpd-patterns": {
+      "type": "local",
+      "command": [
+        "/home/johan/.gpd/venv/bin/python",
+        "-m",
+        "gpd.mcp.servers.patterns_server"
+      ],
+      "environment": {
+        "LOG_LEVEL": "WARNING"
+      },
+      "enabled": true
+    },
+    "gpd-protocols": {
+      "type": "local",
+      "command": [
+        "/home/johan/.gpd/venv/bin/python",
+        "-m",
+        "gpd.mcp.servers.protocols_server"
+      ],
+      "environment": {
+        "LOG_LEVEL": "WARNING"
+      },
+      "enabled": true
+    },
+    "gpd-skills": {
+      "type": "local",
+      "command": [
+        "/home/johan/.gpd/venv/bin/python",
+        "-m",
+        "gpd.mcp.servers.skills_server"
+      ],
+      "environment": {
+        "LOG_LEVEL": "WARNING"
+      },
+      "enabled": true
+    },
+    "gpd-state": {
+      "type": "local",
+      "command": [
+        "/home/johan/.gpd/venv/bin/python",
+        "-m",
+        "gpd.mcp.servers.state_server"
+      ],
+      "environment": {
+        "LOG_LEVEL": "WARNING"
+      },
+      "enabled": true
+    },
+    "gpd-verification": {
+      "type": "local",
+      "command": [
+        "/home/johan/.gpd/venv/bin/python",
+        "-m",
+        "gpd.mcp.servers.verification_server"
+      ],
+      "environment": {
+        "LOG_LEVEL": "WARNING"
+      },
+      "enabled": true
+    },
+    "gpd-arxiv": {
+      "type": "local",
+      "command": [
+        "/home/johan/.gpd/venv/bin/python",
+        "-m",
+        "arxiv_mcp_server"
+      ],
+      "enabled": true
+    }
+  }
+}

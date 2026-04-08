@@ -1,0 +1,39 @@
+{
+  "_version": 1,
+  "_synced_at": "2026-04-08T00:00:00Z",
+  "project_reference": {
+    "project_md_updated": "2026-04-08",
+    "core_research_question": "Which rejuvenation approach works best for elderly (60-80) and when will approved therapies be available?",
+    "current_focus": "Phase 1: Comparative Analysis"
+  },
+  "project_contract": null,
+  "position": {
+    "current_phase": "01",
+    "current_phase_name": "Comparative Analysis",
+    "total_phases": 3,
+    "current_plan": null,
+    "total_plans_in_phase": 0,
+    "status": "Ready to plan",
+    "last_activity": "2026-04-08",
+    "last_activity_desc": "Project initialized",
+    "progress_percent": 0,
+    "paused_at": null
+  },
+  "active_calculations": [],
+  "intermediate_results": [],
+  "open_questions": [
+    "Which of the three approaches (senolytics/NAD+/reprogramming) will prove most effective for elderly?"
+  ],
+  "performance_metrics": { "rows": [] },
+  "decisions": [],
+  "approximations": [],
+  "convention_lock": {},
+  "propagated_uncertainties": [],
+  "pending_todos": [],
+  "blockers": [],
+  "session": {
+    "last_date": "2026-04-08T00:00:00Z",
+    "stopped_at": "Project initialized",
+    "resume_file": null
+  }
+}
