@@ -117,5 +117,6 @@ This is a living document. To update:
 
 ---
 
-*Last updated: April 2026*
-*Next update: May 8, 2026*
+*Last updated: April 2026*  
+*Next update: May 8, 2026*  
+*License: MIT (see LICENSE file)*
