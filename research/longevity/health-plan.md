@@ -41,10 +41,26 @@ This plan provides a **tiered approach** based on what's available NOW versus wh
    - Dose: 250-500mg NMN daily (or 300mg NR)
    - Buy from reputable sources (check purity)
    
+   **Recommended NMN Brands (2026):**
+   - **HealthspanX Ultra Pure NMN** — 99%+ pure, 500mg/capsule, third-party tested, GMP certified — ~$40-60/mo
+   - **GenuinePurity Liposomal NMN** — 96% pure, liposomal for better absorption — ~$50-70/mo
+   - **ProHealth NMN Pro** — Good value powder form — ~$20-30/mo
+   
+   **What to check:**
+   - Third-party lab testing (Certificate of Analysis available)
+   - Purity 95%+ (ideally 98-99%)
+   - GMP-certified manufacturing
+   - No proprietary blends (single ingredient preferred)
+   
 2. **Add senolytic protocol** periodically
    - Fisetin: 20-100mg/kg (or 100mg daily)
    - Or Quercetin: 500mg 2x daily
    - Cycle: 3 days on, 11 days off (or as directed)
+   
+   **Recommended Senolytic Brands (2026):**
+   - **Life Extension Senolytic Activator** — Quercetin + Fisetin combo, 36 caps, ~$25/mo
+   - **ProSenolytic (ProHealth)** — High-dose fisetin — ~$30-40/mo
+   - **NOW Foods Quercetin** — Budget option, 500mg — ~$15/mo
 
 3. **Monitor biomarkers**
    - NAD+ levels

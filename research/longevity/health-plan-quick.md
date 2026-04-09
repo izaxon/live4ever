@@ -8,7 +8,7 @@
 
 | Priority | Action | Dose | Cost |
 |----------|--------|------|------|
-| ⭐ 1 | **NAD+ Boosters (NMN or NR)** | 250-500mg/day | $20-80/mo |
+| ⭐ 1 | **NAD+ Boosters (NMN or NR)** | 250-500mg/day | $20-80/mo | HealthspanX, GenuinePurity, ProHealth |
 | ⭐ 2 | **Lifestyle** | Exercise + Sleep + Diet | $0-30/mo |
 | ⭐ 3 | **Baseline test** | Blood work | $200-500/yr |
 
