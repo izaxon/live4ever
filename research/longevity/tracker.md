@@ -66,11 +66,24 @@
 | Telomere Elongation Trial | Elixirgen | 2025 | ✅ Read |
 | Plasma Strategies Review | GeroScience | 2026 | ✅ Read |
 
-## 📁 Deep Dives
+## 📁 Files in This Research
 
-- `deep-dive-telomere.md` — Full telomere extension analysis
-- `deep-dive-young-blood.md` — Young blood/plasma factors analysis
-- `deep-dive-gene-therapy.md` — Gene therapy approaches analysis
+### Main Documents
+- `state-of-the-field.md` — Comprehensive overview
+- `tracker.md` — Progress tracking
+- `comparative-analysis.md` — Detailed comparison
+- `recommendation.md` — Final recommendations
+- `glossary.md` — **NEW** — Terms explained for non-experts
+
+### Deep Dives
+- `deep-dive-telomere.md`
+- `deep-dive-young-blood.md`
+- `deep-dive-gene-therapy.md`
+
+### Action Plans
+- `health-plan.md` — Full plan
+- `health-plan-quick.md` — Quick reference
+- `refresh-schedule.md` — Update schedule
 
 ---
 
