@@ -33,8 +33,10 @@
 - [ ] Check NAD+ booster trial updates
 - [ ] Check pricing changes
 - [ ] Check new companies entering space
+- [ ] Check AI acceleration developments
 - [ ] Update `state-of-the-field.md`
 - [ ] Update `tracker.md`
+- [ ] Update `health-plan.md` if new options available
 - [ ] Commit changes
 
 ---

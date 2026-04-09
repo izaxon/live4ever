@@ -231,6 +231,36 @@ See `comparative-analysis.md` for detailed comparison of senolytics vs NAD+ boos
 
 ---
 
+## AI Acceleration Warning
+
+**Key insight:** AI is dramatically accelerating longevity research. Timelines may be much faster than projected.
+
+| Original Estimate | AI-Accelerated Possible |
+|-------------------|--------------------------|
+| 2030+ for reprogramming | 2028-2030 |
+| 2028 for NAD+ Rx | 2027 |
+| 2030+ for combinations | 2028-2029 |
+
+**Implication:** Stay flexible, monitor closely, be ready to act faster than expected.
+
+---
+
+## Health Plan
+
+See `health-plan.md` for detailed actionable plan for elderly (60+, 70+, 80+).
+
+---
+
+## Quick Start
+
+1. **Start NAD+ boosters now** — $20-80/mo, available, evidence-based
+2. **Add senolytics soon** — $20-40/mo, emerging evidence
+3. **Monitor and adjust** — New options coming fast
+4. **Watch for approvals** — 2027-2029 will see major changes
+5. **Plan for future** — Set aside funds for gene therapy ($10k+)
+
+---
+
 ## Sources
 
 - Nature, Nature Biotechnology (FDA clearance 2026)
