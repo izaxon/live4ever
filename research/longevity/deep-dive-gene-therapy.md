@@ -13,9 +13,15 @@ Gene therapy for aging delivers genetic material to modify how cells function, p
 
 ## Gene Therapy Approaches
 
-### 1. Epigenetic Reprogramming (Yamanaka Factors)
+### 1. Epigenetic Reprogramming (Yamanaka Factors) ⭐ LEADING APPROACH
 
-**What:** Deliver OSKM (Oct4, Sox2, Klf4, c-Myc) to reset epigenetic age
+**What:** Deliver OSKM factors (Oct4, Sox2, Klf4, c-Myc) to reset epigenetic age
+
+**The Science (from 2026 research):**
+- Every cell has same DNA; differentiation is controlled by epigenetic markers (molecules that sit on DNA and turn genes on/off)
+- With age, DNA damage + repair causes these markers to drift → wrong genes on, right genes off → aging
+- Full reprogramming (high-dose OSKM) creates iPSCs (stem cells) — risk of tumors
+- **Partial reprogramming** (low-dose, cyclical) resets markers to CORRECT positions WITHOUT dedifferentiation → cells become young versions of themselves
 
 **Details:**
 - Most advanced approach
@@ -23,6 +29,7 @@ Gene therapy for aging delivers genetic material to modify how cells function, p
 - Delivery: AAV to eye (optic neuropathies)
 - Uses 3 factors (not all 4) for safety
 - Inducible system (can turn on/off)
+- Altos Labs raised ~$10B — most funded longevity startup ever
 
 **Status:** First human trials in 2026
 

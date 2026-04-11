@@ -48,6 +48,9 @@ Resetting the "software" of cells (how genes are expressed) without changing the
 ### Epigenetics
 The study of how behavior and environment can cause changes that affect the way your genes work. Unlike DNA sequence, epigenetic marks can change throughout life.
 
+### Epigenetic Drift
+The gradual misplacement of epigenetic markers (the "switches" that turn genes on/off) that occurs with age. As DNA gets damaged and repaired over time, these markers can end up in wrong positions → wrong genes turn on, right genes turn off → cellular dysfunction = aging. This is now understood as **the root cause of aging**.
+
 ---
 
 ## G
@@ -104,6 +107,9 @@ Another NAD+ precursor, similar to NMN. Found in small amounts in some foods. So
 
 ### OSKM (Yamanaka Factors)
 Four transcription factors (Oct4, Sox2, Klf4, c-Myc) that can reprogram adult cells back to an embryonic-like state. Named after Shinya Yamanaka who discovered them (Nobel Prize 2012).
+
+### Partial Reprogramming
+Using Yamanaka factors at low dose or cyclically (instead of continuous high-dose) to reset epigenetic markers to correct positions WITHOUT full dedifferentiation to stem cells. This avoids tumor risk while achieving rejuvenation — the key breakthrough that made human trials possible.
 
 ---
 

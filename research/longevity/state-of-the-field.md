@@ -22,9 +22,19 @@ A historic inflection point: **epigenetic reprogramming has entered human clinic
 - March 2026: More companies entering the space
 - Eye diseases chosen as first target because delivery is straightforward and measurable
 
-**Companies:** Life Biosciences, Retro Biosciences, CytoGen, Shift Bioscience
+**Companies:** 
+- **Life Biosciences** — FDA trial started Feb 2026 (ER-100, eye disorders)
+- **Retro Biosciences** — Partial reprogramming, well-funded
+- **Altos Labs** — Most funded longevity startup in history (~$$10B raised), pursuing systemic reprogramming
+- **CytoGen, Shift Bioscience** — Additional players
 
-**Status:** Human trials started 2026
+**Timeline:** 
+- 2026: First human trials (eye)
+- 2027-2028: Systemic delivery in animal models
+- 2028-2030: Larger human trials if Phase 1 succeeds
+- 2030+: First approved rejuvenation therapies possible
+
+**Key insight from 2026 research:** Partial reprogramming (low-dose cyclical expression of Yamanaka factors) avoids tumor risk while resetting epigenetic markers to correct positions — making aged cells young again without full dedifferentiation.
 
 ---
 
@@ -146,14 +156,64 @@ A historic inflection point: **epigenetic reprogramming has entered human clinic
 
 ---
 
+## The Biology of Aging: Epigenetic Drift (Foundation for Understanding Reprogramming)
+
+Aging is increasingly understood as a disease rooted in **epigenetic dysregulation** — the gradual misplacement of molecular "switches" that turn genes on or off.
+
+### Core Concept
+- Every cell in your body contains the same DNA
+- What makes a retinal cell different from a skin cell or heart cell is which genes are **on** vs **off**
+- These on/off states are controlled by epigenetic markers — molecules that sit on top of DNA and block or expose genes
+- This is cellular differentiation — the process that creates all the different cell types in your body
+
+### The Problem: Epigenetic Drift
+- DNA damage occurs constantly (radiation, sunlight, metabolic stress, alcohol, etc.)
+- Cellular repair mechanisms fix DNA breaks, but each repair has a small chance of epigenetic marker misalignment
+- Over decades, these markers gradually drift to wrong positions
+- Wrong genes get turned on, right genes get turned off
+- Cells stop functioning properly → aging phenotypes (wrinkles, organ dysfunction, disease)
+
+### The Solution: Epigenetic Reprogramming
+- **2006:** Shinya Yamanaka discovered four proteins (OSKM factors: Oct4, Sox2, Klf4, c-Myc) that can reset a differentiated cell back to a pluripotent stem cell
+- **2016:** Follow-up research showed that **partial** reprogramming (low-dose, cyclical) resets epigenetic markers to correct positions WITHOUT full dedifferentiation → cells become young again, not stem cells
+- Result: Aged retinal cells become young retinal cells; aged skin becomes young skin; aged heart cells become young heart cells
+
+### Key Research Milestones
+| Year | Milestone |
+|------|-----------|
+| 2006 | Yamanaka discovers OSKM can create iPSCs (Nobel 2012) |
+| 2016 | Partial reprogramming shown to reverse aging without tumors |
+| 2023-2024 | Multiple papers show reversal of blindness in animal models |
+| Feb 2026 | First FDA human trial (Life Biosciences, eye) |
+| 2026+ | Systemic delivery, multiple companies racing |
+
+---
+
 ## Timeline to Watch
 
 | Year | Milestone |
 |------|-----------|
-| 2026 | First reprogramming human trials |
-| 2027-2028 | Senolytic efficacy data |
-| 2028-2030 | Larger reprogramming trials if Phase 1 succeeds |
+| 2026 | First reprogramming human trials (eye) |
+| 2027-2028 | Systemic delivery in animal models; multiple cocktails in trials |
+| 2028-2030 | Larger human trials if Phase 1 succeeds; first combo therapies |
 | 2030+ | Potential first approved rejuvenation therapies |
+
+### "One Decade" Timeline Assessment
+
+The video suggests **10-20 years** for widespread availability. This aligns with current projections:
+
+- **Conservative:** 2035+ for first FDA-approved systemic rejuvenation
+- **Optimistic (AI-accelerated):** 2028-2030 for initial approvals
+- **Key inflection:** Once safety proven in eye trials (2026-2027), acceleration likely
+
+The field is moving faster than expected. 2026 already has first human trials — far ahead of 2020 projections.
+
+### Economic & Abundance Implications
+- Each year of average lifespan extension adds **tens of trillions to global GDP**
+- This creates massive economic incentive for development
+- First treatments will be expensive ($10k+), but costs will drop
+- Beyond lifespan: healthspan, energy, reduced disease burden
+- When combined with AI automation, creates compounding abundance effects
 
 ---
 

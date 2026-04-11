@@ -83,15 +83,27 @@
 
 **Mechanism:** Use OSKM (Oct4, Sox2, Klf4, c-Myc) to reset epigenetic marks to youthful state. Partial reprogramming (cyclical/partial) aims to avoid tumor risk.
 
+**The Biology (from 2026 research):**
+- Every cell in the body contains identical DNA
+- What differentiates a retinal cell from a skin cell is which genes are ON vs OFF
+- These on/off states are controlled by epigenetic markers — molecules that sit on DNA and block/expose genes
+- With age, DNA damage from radiation, sunlight, metabolism, etc. + cellular repair = gradual misplacement of epigenetic markers
+- Wrong genes turn ON (should be OFF), right genes turn OFF (should be ON) → cellular dysfunction → aging
+- Yamanaka factors can reset these markers to correct positions, making aged cells young again
+
 **Current Status:**
 - **Feb 2026:** FDA cleared Life Biosciences ER-100 — first human trial
 - Delivery: AAV2 gene therapy to eye (optic neuropathies)
 - Uses **3 Yamanaka factors** (not all 4) — designed to be safer
+- **Altos Labs:** Has raised ~$10B, most funded longevity startup ever, pursuing systemic delivery
+- Multiple companies developing different "cocktails" beyond just OSKM
 
 **Elderly-Specific Evidence:**
 - All evidence currently pre-clinical (mice, primates)
 - Showed reversal of epigenetic age in mice
 - Restored vision in primate models
+- Made "200+ year old" mice youthful again
+- Human cells in vitro show expected effects
 
 **Pros for Elderly:**
 - ⭐ Potential to fundamentally reverse cellular age

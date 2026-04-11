@@ -26,6 +26,19 @@ This plan provides a **tiered approach** based on what's available NOW versus wh
 
 **Recommendation:** Start NAD+ boosters (best evidence for 60+)
 
+#### Lifestyle Interventions (Available Now, Free/Low Cost)
+
+Research shows these have direct epigenetic effects:
+
+| Intervention | Mechanism | Recommendation |
+|--------------|-----------|----------------|
+| **Exercise** | Releases molecules that go into cells and address epigenome, making cells more youthful | 150 min/week moderate, or 75 min vigorous |
+| **Sleep** | Restorative sleep allows cellular repair; 8 hours optimal | Consistent schedule, cool environment |
+| **Intermittent Fasting** | Triggers cellular repair (autophagy), affects epigenetic markers | 16:8 or 5:2 protocols |
+| **Temperature Regulation** | Cool sleeping environment improves metabolic health | 65-68°F (18-20°C) bedroom |
+
+**Note:** The video emphasizes that these lifestyle factors directly impact the epigenome — they aren't just "nice to haves" but actual interventions that can edge you toward more youthful cellular function while waiting for clinical therapies.
+
 #### Tier B: Emerging (Consider Soon)
 
 | Approach | What | When |
