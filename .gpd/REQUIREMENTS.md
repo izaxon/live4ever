@@ -7,10 +7,11 @@
 
 ### Comparative Analysis
 
-- [x] **COMP-01**: Compare senolytics vs NAD+ boosters vs epigenetic reprogramming on mechanism of action
-- [x] **COMP-02**: Compare safety profiles for elderly (60-80) across all three approaches
+- [x] **COMP-01**: Compare senolytics vs NAD+ boosters vs epigenetic reprogramming vs nattokinase on mechanism of action
+- [x] **COMP-02**: Compare safety profiles for elderly (60-80) across all four approaches
 - [x] **COMP-03**: Compare efficacy data available as of 2026 for each approach
 - [x] **COMP-04**: Compare systemic delivery feasibility for each approach
+- [x] **COMP-05**: Compare cost and accessibility for each approach
 
 ### Timeline Analysis
 
@@ -37,16 +38,17 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| COMP-01 | Phase 1 | ✅ Complete |
-| COMP-02 | Phase 1 | ✅ Complete |
-| COMP-03 | Phase 1 | ✅ Complete |
-| COMP-04 | Phase 1 | ✅ Complete |
-| TIME-01 | Phase 2 | ✅ Complete |
-| TIME-02 | Phase 2 | ✅ Complete |
-| TIME-03 | Phase 2 | ✅ Complete |
-| RECM-01 | Phase 3 | ✅ Complete |
-| RECM-02 | Phase 3 | ✅ Complete |
-| RECM-03 | Phase 1 | ✅ Complete |
+| COMP-01 | Phase 1 | 🔄 In Progress |
+| COMP-02 | Phase 1 | ⏳ Pending |
+| COMP-03 | Phase 1 | ⏳ Pending |
+| COMP-04 | Phase 1 | ⏳ Pending |
+| COMP-05 | Phase 1 | ⏳ Pending |
+| TIME-01 | Phase 2 | ⏳ Pending |
+| TIME-02 | Phase 2 | ⏳ Pending |
+| TIME-03 | Phase 2 | ⏳ Pending |
+| RECM-01 | Phase 3 | ⏳ Pending |
+| RECM-02 | Phase 3 | ⏳ Pending |
+| RECM-03 | Phase 1 | ⏳ Pending |
 
 ---
 

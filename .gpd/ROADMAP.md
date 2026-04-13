@@ -2,11 +2,11 @@
 
 ## Overview
 
-Compare senolytics, NAD+ boosters, and epigenetic reprogramming for elderly (60-80) rejuvenation. Determine which approach works best and realistic timeline to approved therapies.
+Compare senolytics, NAD+ boosters, epigenetic reprogramming, and nattokinase for elderly (60-80) rejuvenation. Determine which approach works best and realistic timeline to approved therapies.
 
 ## Phases
 
-- [ ] **Phase 1: Comparative Analysis** — Compare mechanisms, safety, efficacy, delivery for three approaches
+- [ ] **Phase 1: Comparative Analysis** — Compare mechanisms, safety, efficacy, delivery, cost for four approaches
 - [ ] **Phase 2: Timeline Analysis** — Determine when approved therapies expected
 - [ ] **Phase 3: Recommendation** — Best approach for elderly + combination possibilities
 
@@ -14,16 +14,17 @@ Compare senolytics, NAD+ boosters, and epigenetic reprogramming for elderly (60-
 
 ### Phase 1: Comparative Analysis
 
-**Goal:** Compare senolytics, NAD+ boosters, epigenetic reprogramming
+**Goal:** Compare senolytics, NAD+ boosters, epigenetic reprogramming, nattokinase
 
-**Requirements:** COMP-01, COMP-02, COMP-03, COMP-04, RECM-03
+**Requirements:** COMP-01, COMP-02, COMP-03, COMP-04, COMP-05, RECM-03
 
 **Success Criteria:**
 
-1. Mechanism comparison complete for all three approaches
+1. Mechanism comparison complete for all four approaches
 2. Safety profile documented for elderly (60-80)
 3. Efficacy data summarized with 2026 evidence
-4. Low-impact methods documented (telomere, gene therapy, parabiosis)
+4. Systemic delivery & cost comparison
+5. Low-impact methods documented (telomere, gene therapy, parabiosis)
 
 ### Phase 2: Timeline Analysis
 

@@ -1,16 +1,18 @@
 # Quick Reference: Elderly Rejuvenation Action Guide
 
-**Age:** _____ | **Date:** _____ | **Baseline:** _____
+**Age:** _____ | **Date:** 2026-04-13 | **Baseline:** _____
 
 ---
 
-## START NOW (This Week)
+## START NOW (This Week) - UPDATED
 
-| Priority | Action | Dose | Cost |
-|----------|--------|------|------|
-| ⭐ 1 | **NAD+ Boosters (NMN or NR)** | 250-500mg/day | $20-80/mo | HealthspanX, GenuinePurity, ProHealth |
-| ⭐ 2 | **Lifestyle** | Exercise + Sleep + Diet | $0-30/mo |
-| ⭐ 3 | **Baseline test** | Blood work | $200-500/yr |
+| Priority | Action | Dose | Cost | Evidence |
+|----------|--------|------|------|----------|
+| ⭐ 1 | **Nattokinase** | 10,800 FU/day | $25-35/mo | Strongest (n=1,062) |
+| ⭐ 2 | **NAD+ (NR)** | 300-500mg/day | $40-100/mo | Moderate |
+| ⭐ 3 | **Lifestyle** | Exercise + Sleep + Diet | $0-30/mo | Strong |
+
+**Updated April 2026:** Nattokinase now top recommendation - Sinclair takes daily
 
 ---
 
@@ -18,9 +20,10 @@
 
 | When | Action |
 |------|--------|
-| Month 3 | Consider senolytic protocol |
+| Month 1 | Start nattokinase (with physician approval) |
+| Month 3 | Consider adding NR if not doing |
 | Month 6 | Re-evaluate + adjust |
-| Month 12 | Annual comprehensive test |
+| Month 12 | Annual ultrasound + blood work |
 
 ---
 
@@ -28,39 +31,39 @@
 
 | Year | Watch For |
 |------|-----------|
+| 2026 | ER-100 Phase 1 safety data |
 | 2027 | More senolytic data |
-| 2028 | First NAD+ FDA approval |
-| 2028-2029 | Therapeutic plasma exchange |
-| 2030+ | Gene therapy options |
+| 2029-2030 | First FDA longevity approval |
 
 ---
 
-## KEY NUMBERS
+## KEY NUMBERS (Updated)
 
 | Metric | Target | Last Test |
 |--------|--------|-----------|
-| NAD+ level | TBD | ____ |
+| Carotid plaque | Reduce 20%+ | ____ |
+| CCA-IMT | <1.0mm | ____ |
+| NAD+ level | 2x baseline | ____ |
 | IL-6/CRP | <2 | ____ |
-| HbA1c | <5.7% | ____ |
-| VO2 max | Improve | ____ |
 
 ---
 
 ## MONTHLY REMINDER
 
-☐ Supplements taken consistently  
+☐ Nattokinase taken daily  
+☐ NAD+ boosters (if using)  
 ☐ Exercise 150+ minutes  
-☐ Sleep 7-8 hours  
-☐ Check research for updates
+☐ Sleep 7-8 hours
 
 ---
 
 ## CONTACTS
 
 **Doctor:** _________________  
-**Supplement brand:** _________  
-**Key research:** ____________
+**Supplement brands:** _________  
+**Key research:** .gpd/COMPARISON.md
 
 ---
 
+*Updated April 2026 with nattokinase research*
 *Print and post. Review monthly.*

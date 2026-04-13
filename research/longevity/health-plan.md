@@ -1,14 +1,17 @@
 # Elderly Rejuvenation Health Plan
 
 **Created:** 2026-04-08  
-**Target:** Adults 60+ and their caregivers  
+**Updated:** 2026-04-13  
+**Target:** Adults 60-80 and their caregivers  
 **Purpose:** Actionable plan for leveraging longevity research
 
 ---
 
 ## Executive Summary
 
-This plan provides a **tiered approach** based on what's available NOW versus what's coming. The key insight: **AI is accelerating everything** — timelines may be faster than expected, so staying informed matters.
+This plan provides a **tiered approach** based on what's available NOW versus what's coming. 
+
+**Major Update (April 2026):** Added nattokinase - shows strongest human evidence (n=1,062, 66-95% plaque improvement) and is cheapest option ($25-35/mo). David Sinclair takes daily.
 
 ---
 
@@ -18,13 +21,13 @@ This plan provides a **tiered approach** based on what's available NOW versus wh
 
 #### Tier A: Proven & Available (Do Now)
 
-| Approach | What | Cost | Where to Get |
-|----------|------|------|--------------|
-| **NAD+ Boosters** | NMN or NR supplements | $20-80/mo | Online retailers, specialty shops |
-| **Senolytics** | Fisetin or Quercetin | $20-40/mo | Online, health stores |
-| **Vitamin D + Exercise** | Basic longevity stack | $10-20/mo | Anywhere |
+| Approach | What | Cost | Where to Get | Evidence |
+|----------|------|------|--------------|----------|
+| **Nattokinase** | 10,800 FU/day oral enzyme | $25-35/mo | Online | **Strongest** (n=1,062) |
+| **NAD+ Boosters** | NMN or NR supplements | $40-100/mo | Online/OTG | Moderate (2x NAD+) |
+| **Senolytics** | Fisetin or Quercetin | $30-60/mo | Online, health stores | Preliminary |
 
-**Recommendation:** Start NAD+ boosters (best evidence for 60+)
+**TOP RECOMMENDATION (April 2026):** Nattokinase - strongest human evidence, cheapest, Sinclair takes daily
 
 #### Lifestyle Interventions (Available Now, Free/Low Cost)
 
@@ -50,40 +53,36 @@ Research shows these have direct epigenetic effects:
 
 ### Practical Steps for Age 60-80
 
-1. **Start NAD+ precursors** (NMN or NR)
-   - Dose: 250-500mg NMN daily (or 300mg NR)
-   - Buy from reputable sources (check purity)
+**RECOMMENDED: Start with Nattokinase** (strongest evidence, lowest cost)
+
+1. **Start Nattokinase** (NEW PRIMARY RECOMMENDATION)
+   - Dose: 10,800 FU/day (NOT the low 3,600 FU dose - ineffective)
+   - Evidence: 22% CCA-IMT reduction, 36% plaque reduction, 66-95% improved
+   - Sinclair monitors with carotid ultrasound - recommends doing same
+   - **Cost: $25-35/month**
    
-   **Recommended NMN Brands (2026):**
-   - **HealthspanX Ultra Pure NMN** — 99%+ pure, 500mg/capsule, third-party tested, GMP certified — ~$40-60/mo
-   - **GenuinePurity Liposomal NMN** — 96% pure, liposomal for better absorption — ~$50-70/mo
-   - **ProHealth NMN Pro** — Good value powder form — ~$20-30/mo
+2. **Add NAD+ precursors** (NR preferred - OTC available)
+   - NR dose: 300-500mg daily (Niagen or generic)
+   - NMN: 250-500mg (research compound, not OTC)
+   - **Cost: $40-100/month**
    
-   **What to check:**
-   - Third-party lab testing (Certificate of Analysis available)
-   - Purity 95%+ (ideally 98-99%)
-   - GMP-certified manufacturing
-   - No proprietary blends (single ingredient preferred)
-   
-2. **Add senolytic protocol** periodically
+3. **Consider senolytic protocol** periodically (optional)
    - Fisetin: 20-100mg/kg (or 100mg daily)
    - Or Quercetin: 500mg 2x daily
    - Cycle: 3 days on, 11 days off (or as directed)
-   
-   **Recommended Senolytic Brands (2026):**
-   - **Life Extension Senolytic Activator** — Quercetin + Fisetin combo, 36 caps, ~$25/mo
-   - **ProSenolytic (ProHealth)** — High-dose fisetin — ~$30-40/mo
-   - **NOW Foods Quercetin** — Budget option, 500mg — ~$15/mo
+   - Evidence is preliminary - works best in high-senescence populations
 
-3. **Monitor biomarkers**
-   - NAD+ levels
+4. **Monitor biomarkers**
+   - NAD+ levels (if testing available)
    - Inflammatory markers (IL-6, CRP)
-   - Metabolic markers (glucose, HbA1c)
+   - Carotid ultrasound annually (if doing nattokinase)
 
-4. **Lifestyle foundation**
+5. **Lifestyle foundation**
    - Exercise (especially strength + cardio)
    - Sleep (7-8 hours)
    - Diet ( Mediterranean style)
+
+**COMBINATION CONSIDERED:** Nattokinase + NAD+ = different mechanisms, complementary
 
 ---
 
@@ -103,9 +102,10 @@ Same as above, plus:
 
 | Year | Expected Developments |
 |------|---------------------|
+| 2026 | ER-100 Phase 1 safety data (epigenetic reprogramming) |
 | 2027 | More senolytic efficacy data |
-| 2028 | First NAD+ booster FDA approval possible |
-| 2028 | Therapeutic plasma exchange trials mature |
+| 2028 | ER-100 Phase 1 complete |
+| 2029-2030 | **First FDA longevity approval likely (reprogramming)** |
 | 2029 | Combination therapy protocols refined |
 
 ### Action Items
@@ -119,14 +119,16 @@ Same as above, plus:
 
 ## Phase 3: Future Therapies (2030+)
 
-### What's Coming
+### What's Coming (Updated April 2026)
 
 | Therapy | When | Cost | Who Should Watch |
 |---------|------|------|------------------|
-| Epigenetic reprogramming | 2031-2035 | $10k+ | Younger elderly (60-70) |
-| Klotho gene therapy | 2028-2030 | TBD | Those with cognitive concerns |
-| Advanced telomere therapy | 2030+ | TBD | Those interested in early adoption |
-| Comprehensive combos | 2032+ | TBD | Everyone |
+| **Epigenetic reprogramming** | 2029-2030 (ER-100) | $10k+ | First FDA longevity drug |
+| Senolytics | 2029-2032 | TBD | Disease-specific |
+| Klotho gene therapy | 2030+ | TBD | Those with cognitive concerns |
+| Comprehensive combos | 2030+ | TBD | Everyone |
+
+**Key Update:** First FDA-approved longevity therapy expected 2029-2030 (epigenetic reprogramming for eye disease)
 
 ### Preparation Steps
 
@@ -218,15 +220,16 @@ Now (2026):
 
 ---
 
-## Budget Planning
+## Budget Planning (Updated)
 
-| Tier | Monthly Cost | One-Time Cost |
-|------|--------------|---------------|
-| **Basic (supplements)** | $30-100 | $0 |
-| **Plus (monitoring)** | +$50-100 | $200-500/yr testing |
-| **Premium (future)** | +$50 | $10k+ reserved |
+| Tier | Monthly Cost | Contents |
+|------|--------------|----------|
+| **Basic (Nattokinase)** | $25-35 | 10,800 FU/day nattokinase |
+| **Plus (NAD+ support)** | +$40-100 | Add NR 300-500mg |
+| **Premium (combo)** | +$30-60 | Add senolytic protocol |
+| **Future** | $10k+ | Reserve for reprogramming |
 
-**Recommendation:** Start with Basic, add Plus when able, reserve funds for Premium.
+**Recommendation 2026:** Start with Basic (nattokinase) - strongest evidence, lowest cost
 
 ---
 
@@ -276,4 +279,5 @@ Now (2026):
 ---
 
 *Health plan created: 2026-04-08*
+*Updated: 2026-04-13 with nattokinase research*
 *Review monthly for updates*
