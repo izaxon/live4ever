@@ -72,7 +72,13 @@ Research shows these have direct epigenetic effects:
    - Cycle: 3 days on, 11 days off (or as directed)
    - Evidence is preliminary - works best in high-senescence populations
 
-4. **Monitor biomarkers**
+4. **Address metabolic health** (if applicable)
+   - GLP-1 agonists (Ozempic/Mounjaro) if overweight or metabolic dysfunction
+   - Metabolic dysfunction accelerates aging — addressing it compounds with other interventions
+   - Cost: $200-400/mo (insulin resistance); generics ~2028
+   - Side effects: GI issues, but manageable for most
+
+5. **Monitor biomarkers**
    - NAD+ levels (if testing available)
    - Inflammatory markers (IL-6, CRP)
    - Carotid ultrasound annually (if doing nattokinase)

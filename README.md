@@ -56,57 +56,15 @@ Start with `research/longevity/health-plan.md` — it tells you exactly what to 
 ## File Structure
 
 ```
-research/longevity/
-├── README.md                    ← You are here
-├── glossary.md                  ← Terms explained
-├── state-of-the-field.md        ← Full overview
-├── tracker.md                   ← Progress tracking
-├── health-plan.md               ← What to do (READ THIS)
-├── health-plan-quick.md         ← Quick reference
-├── recommendation.md            ← Key findings
-├── comparative-analysis.md      ← Detailed comparison
-├── refresh-schedule.md         ← When to update
+research/
+├── longevity/              ← Main longevity research
+│   ├── glossary.md
+│   ├── state-of-the-field.md
+│   └── ...
 │
-├── deep-dive-telomere.md        ← Telomere research
-├── deep-dive-young-blood.md     ← Young blood factors
-└── deep-dive-gene-therapy.md    ← Gene therapy approaches
+├── moonshots-ep253-hassabis.md  ← Video: Demis Hassabis on AGI, robotics, Musk governance
+└── README.md
 ```
-
----
-
-## Key Findings
-
-### A. Best Approach for Elderly (60-80)
-**NAD+ boosters (NMN or NR)** — Available now, affordable, strongest evidence for functional improvement.
-
-### B. Timeline to Approved Therapies
-First FDA-approved longevity therapy expected **2028-2030** (likely NAD+ booster or senolytic).
-
-### C. Which Methods Will Work
-NAD+ boosters + senolytics (combination) have best evidence now.
-Epigenetic reprogramming is the future if trials succeed.
-
----
-
-## Important Notes
-
-⚠️ **This is not medical advice.** Always consult a healthcare provider before starting supplements.
-
-📊 **Science is changing fast.** AI is accelerating research — timelines may be faster than expected. Updates scheduled monthly.
-
-💰 **Prices are estimates.** Supplement quality varies — look for third-party testing and 95%+ purity.
-
----
-
-## Contributing
-
-This is a living document. To update:
-1. Search for latest research
-2. Edit relevant files
-3. Commit changes
-4. See `refresh-schedule.md` for update checklist
-
----
 
 ## Sources
 
@@ -114,6 +72,7 @@ This is a living document. To update:
 - Life Biosciences FDA trial (Feb 2026) — First epigenetic reprogramming trial
 - Elixirgen telomere trial (Feb 2025) — First human telomere extension
 - GeroScience review (Feb 2026) — Young blood clinical translation
+- Moonshots EP 253 (April 2026) — Demis Hassabis on AGI, robotics, Musk governance
 
 ---
 

@@ -49,6 +49,7 @@
 ### Now (2026):
 - **Take NAD+ precursors (NMN or NR)** — $20-80/month, strong evidence, available now
 - **Consider senolytic protocol** — $20-40/month, emerging evidence, available now
+- **Metabolic optimization** — GLP-1 if overweight/obese, address insulin sensitivity (metabolic dysfunction accelerates aging)
 
 ### 2028+:
 - **Combination therapy** — NAD+ boosters + senolytics (complementary mechanisms)

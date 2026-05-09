@@ -291,6 +291,49 @@ See `comparative-analysis.md` for detailed comparison of senolytics vs NAD+ boos
 
 ---
 
+## AI Acceleration in Longevity Research
+
+AI is now actively accelerating longevity science. DeepMind/Google (Demis Hassabis), Meta AI, and others are applying large language models and protein structure prediction (AlphaFold) to aging pathways.
+
+**Key insight from Demis Hassabis (DeepMind, April 2026):**
+- AI accelerates scientific discovery across all stages: literature synthesis, hypothesis generation, drug design, trial optimization
+- Protein folding prediction (AlphaFold) already impacted aging research — drug targets now identified faster
+- Multi-modal AI (vision + language + biology) will further compress discovery timelines
+- AI + robotics enables automated high-throughput experiments at scale previously impossible
+
+**Impact on longevity timelines:**
+- AI-accelerated discovery means reprogramming trials may complete faster than historical drug development averages
+- Drug combination search (which compounds work synergistically) being accelerated by AI
+- Patient stratification (who responds best to which therapy) becoming precise via AI
+
+**Moonshots framing (Peter Diamandis/Demis Hassabis, EP 253):** AI + bold moonshot governance (Musk-style compensation packages) driving faster-than-expected progress in longevity and beyond.
+
+See `research/moonshots-ep253-hassabis.md` for full podcast notes.
+
+---
+
+## GLP-1 / Metabolic Drugs (GLP-1 Agonists)
+
+**What:** Ozempic/Wegovy (semaglutide), Mounjaro (tirzepatide) — drugs mimicking gut hormones to reduce appetite and improve metabolic health.
+
+**Relevance to longevity:** Metabolic dysfunction is a core driver of aging. These drugs address:
+- Obesity (accelerates aging)
+- Type 2 diabetes (ages organs)
+- Inflammation (chronic low-grade inflammation is a hallmark of aging)
+- Cardiovascular risk (biggest cause of death in elderly)
+
+**Revenue status (April 2026):** GLP-1 drugs now generate more revenue than many AI companies — mainstream adoption exceeding even optimistic projections.
+
+**Recent Developments:**
+- 2025-2026: Multiple trials showing cardiovascular benefit beyond weight loss
+- Ongoing: Trials for Alzheimer's prevention (inflammation link)
+- Longevity trials starting: Does metabolic improvement extend healthspan directly?
+- Cost dropping as generics emerge (~2028+)
+
+**Status:** Available now by prescription; significant metabolic benefits; longevity-specific trials beginning
+
+---
+
 ## AI Acceleration Warning
 
 **Key insight:** AI is dramatically accelerating longevity research. Timelines may be much faster than projected.
@@ -329,15 +372,28 @@ See `health-plan.md` for detailed actionable plan for elderly (60+, 70+, 80+).
 - Life Biosciences press releases
 - Lifespan.io
 - National Institute on Aging
+- Peter Diamandis, Moonshots EP 253 with Demis Hassabis (April 2026)
+- DeepMind / AlphaFold publications
 
 ---
 
 ## Open Questions
 
+### Core Aging Approaches
 - Which approach will prove safest/effective for systemic rejuvenation?
 - Will partial reprogramming avoid tumor risks?
 - How to deliver reprogramming systemically (not just eyes)?
 - What combination of approaches works best?
+
+### AI Acceleration
+- How much will AI compress current trial timelines? (10%? 50%?)
+- Which specific aging pathways will AI accelerate first?
+- Will AI-driven drug combinations outperform single therapies?
+
+### Metabolic / GLP-1
+- Does GLP-1 impact aging directly (beyond metabolic benefit)?
+- Will GLP-1 be approved for longevity indication?
+- Optimal timing: take GLP-1 alongside longevity supplements or sequentially?
 
 ---
 
